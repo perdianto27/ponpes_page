@@ -1,3 +1,21 @@
+<p align="center" ><img height="400px" src="https://github.com/perdianto27/ponpes_page/blob/master/public/img/home.jpg"> </p>
+<br>
+<p align="center" ><img height="400px" src="https://github.com/perdianto27/ponpes_page/blob/master/public/img/santri.jpg"> </p>
+
+# Tech :
+- PHP 7 
+- Mysql
+- Ajax
+- Javascript
+- Datatable server side
+- Admin LTE
+  
+# Tools :
+- Xampp 3.2.2 php7
+- Clone repo
+- Import database / migrate
+- Login email = perdianto_27email@yahoo.co.id pass: administrator
+
 # Cara Menjalankan
 - Clone project atau download
 - Jalankan perintah : <br>
